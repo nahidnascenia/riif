@@ -28,6 +28,7 @@ module Riif::DSL
       :paymeth,
       :shipdate,
       :rep,
+      :fob,
       :ponum,
       :invtitle,
       :invmemo
